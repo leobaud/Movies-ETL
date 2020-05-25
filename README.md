@@ -10,4 +10,4 @@
 
 4) The script has been written to recognise the json and csv files with an specific name, as downloaded from the data sources. Any changes on the file names will require a little update in the script. Additional coding might be included so that the code accepts the files with any name given.
 
-5) The code is set to transform columns with specific names. Any column name changes in the data source (json and csv) would require a change in the code as well. The code runs smoothly with the original data provided, any changes to the data require a rescript of the code. 
+5) The code is set to transform columns with specific names. Any column name changes in the data source (json and csv) would require a change in the code as well. The code runs smoothly with the correct data, any changes to the data require a rescript of the code. 
